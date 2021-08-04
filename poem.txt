@@ -7,4 +7,5 @@ Blue
 Green
 Ywllow
 Red
+Turquois
 These are the colors of the rainbow and unicorns
